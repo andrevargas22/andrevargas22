@@ -34,10 +34,16 @@ In general, I'm all about building cool stuff!
 
 ### 💬 Languages I speak:
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" alt="Portuguese" width="25px" height="25px"/> Portuguese (native)
-  <img src="https://cdn-icons-png.flaticon.com/512/330/330425.png" alt="English" width="25px" height="25px"/> English (fluent)
-  <img src="https://cdn-icons-png.flaticon.com/512/3909/3909374.png" alt="Spanish" width="25px" height="25px"/> Spanish (advanced)
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" alt="Portuguese" width="25px" height="25px"/> Portuguese (native)
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/330/330425.png" alt="English" width="25px" height="25px"/> English (fluent)
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3909/3909373.png" alt="Spanish" width="25px" height="25px"/> Spanish (advanced)
+  </span>
 </div>
 
 
