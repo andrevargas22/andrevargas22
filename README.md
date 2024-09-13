@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 😎 Hey! Nice to see you.
+## 😎 Hey there! Nice to see you!
+
+I'm **André Vargas**, a Machine Learning Engineer based in 🇧🇷 **São Paulo, Brazil**, with experience in developing and deploying ML and MLOps solutions. I have a solid background in Data Science, Computer Science and Software Engineering, cloud architectures, CI/CD, and implementing models and APIs in production. I seek opportunities to expand my MLOps skills, contributing to Machine Learning projects' advancement, efficiency, and scalability.
 
 ---
 
-Welcome to my page!  
-I'm **André Vargas**, a Machine Learning Engineer based in 🇧🇷 **São Paulo, Brazil**, with experience in developing and deploying ML and MLOps solutions. I have a solid background in Computer Science and Software Engineering, cloud architectures, CI/CD, and implementing models and APIs in production. Demonstrating a holistic and integrated vision in delivering advanced technological solutions, I seek opportunities to expand my MLOps skills, contributing to Machine Learning projects' advancement, efficiency, and scalability.
-
----
-
-### Things I work with
+### 🔭 Things I work with:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -48,10 +45,26 @@ I'm **André Vargas**, a Machine Learning Engineer based in 🇧🇷 **São Paul
 
 ---
 
-■ **Languages**:  
-◇ Portuguese (native), English (fluent), and Spanish (advanced).
+## 💬 Languages I speak:
+◇ Portuguese (native)  
+◇ English (fluent)  
+◇ Spanish (advanced)
 
 ---
 
-■ **[Github](https://github.com/andrevargas22)**  
-■ **[Personal Website](https://andrevargas.com.br)**
+## 📫 Where to find me:
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/andrevargas22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrevargas22" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@andrevargas22" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://andrevargas.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website" />
+  </a>
+</div>
