@@ -34,11 +34,18 @@ In general, I'm all about building cool stuff!
 
 ### 💬 Languages I speak:
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png" alt="Portuguese" width="25px" height="25px"/> Portuguese (native)
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png" alt="English" width="25px" height="25px"/> English (fluent)
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f8.png" alt="Spanish" width="25px" height="25px"/> Spanish (advanced)
+<div style="display: flex; gap: 20px; align-items: center;">
+  <span style="display: flex; align-items: center;">
+    <i class="fas fa-flag" style="color: #008000;"></i> Portuguese (native)
+  </span>
+  <span style="display: flex; align-items: center;">
+    <i class="fas fa-flag" style="color: #0000FF;"></i> English (fluent)
+  </span>
+  <span style="display: flex; align-items: center;">
+    <i class="fas fa-flag" style="color: #FFBF00;"></i> Spanish (advanced)
+  </span>
 </div>
+
 
 ---
 
