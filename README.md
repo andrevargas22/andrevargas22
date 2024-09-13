@@ -45,14 +45,14 @@ I'm **André Vargas**, a Machine Learning Engineer based in 🇧🇷 **São Paul
 
 ---
 
-## 💬 Languages I speak:
+### 💬 Languages I speak:
 ◇ Portuguese (native)  
 ◇ English (fluent)  
 ◇ Spanish (advanced)
 
 ---
 
-## 📫 Where to find me:
+### 📫 Where to find me:
 
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/andrevargas22" target="_blank">
