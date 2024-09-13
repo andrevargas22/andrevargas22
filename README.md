@@ -33,9 +33,9 @@ In general, I'm all about building cool stuff!
 ---
 
 ### 💬 Languages I speak:
-◇ Portuguese (native)  
-◇ English (fluent)  
-◇ Spanish (advanced)
+- 🇧🇷 Portuguese (native)
+- 🇬🇧 English (fluent)
+- 🇪🇸 Spanish (advanced)
 
 ---
 
