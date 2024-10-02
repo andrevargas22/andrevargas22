@@ -2,12 +2,13 @@
 
 I'm **André Vargas**, a Machine Learning Engineer based in <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" alt="Brazil" width="15px" height="15px"/> **Brazil**, with experience in developing and deploying ML and MLOps solutions. I have a solid background in Data Science, Computer Science and Software Engineering, cloud architectures, CI/CD, and implementing models and APIs in production. I seek opportunities to expand my MLOps skills, contributing to Machine Learning projects' advancement, efficiency, and scalability.
 
+I'm **André Vargas**, a Machine Learning Engineer based in <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" alt="Brazil" width="15px" height="15px"/> **Brazil**, with experience developing and deploying ML and MLOps solutions. I have a solid background in data science, computer science, software engineering, cloud architectures, CI/CD, and implementing models and APIs in production. I seek opportunities to expand my MLOps skills, contributing to Machine Learning projects' advancement, efficiency, and scalability.
 
 In general, I'm all about building cool stuff!
 
 ---
 
-### 🔭 Things I work with:
+### 🔭 Some of the toys I'm normally playing with:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
