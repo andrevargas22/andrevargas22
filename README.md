@@ -15,6 +15,7 @@ In general, I'm all about building cool stuff!
     <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+    <img src="https://img.shields.io/badge/H2O.ai-007D3C?style=for-the-badge&logoColor=white" alt="H2O.ai" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
