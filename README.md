@@ -41,7 +41,7 @@ In general, I'm all about building cool stuff!
     <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" alt="Portuguese" width="15px" height="15px"/> Portuguese (native)
   </span><br>
   <span style="display: flex; align-items: center;">
-    <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" alt="English" width="15px" height="15px"/> English (fluent)
+    <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" alt="English" width="15px" height="15px"/> English (proficient)
   </span><br>
   <span style="display: flex; align-items: center;">
     <img src="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" alt="Spanish" width="15px" height="15px"/> Spanish (advanced)
