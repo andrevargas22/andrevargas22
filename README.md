@@ -1,35 +1,35 @@
 ## 😎 Hey there! Nice to see you!
 
-I'm **André Vargas**, a Machine Learning Engineer from <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" alt="Brazil" width="15px" height="15px"/> **Brazil**, with experience developing and deploying ML and MLOps solutions. I have a solid background in data science, computer science, software engineering, cloud architectures, and implementing models and APIs in production. 
+I'm **André Vargas**, a Machine Learning Engineer from <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" alt="Brazil" width="15px" height="15px"/> **Brazil**, specialising in **MLOps, LLMOps and AIOps**: building and deploying production-ready ML and AI systems.
 
-I seek opportunities to expand my MLOps skills further, contributing to Machine Learning projects' advancement, efficiency, and scalability.
+My path went from hardware and IoT to Data Science, ML Engineering, MLOps, and now generative and agentic AI. Along the way I picked up a solid background in cloud architecture, CI/CD, and running models, APIs and AI platforms in production.
 
-In general, I'm all about building cool stuff!
+In general, I'm all about learning and building cool stuff!
 
 ---
 
 ### 🔭 Some of the toys I'm normally playing with:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
     <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
     <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
-    <img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow" />
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </div>
 
 ---
@@ -41,10 +41,13 @@ In general, I'm all about building cool stuff!
     <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" alt="Portuguese" width="15px" height="15px"/> Portuguese (native)
   </span><br>
   <span style="display: flex; align-items: center;">
-    <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" alt="English" width="15px" height="15px"/> English (proficient)
+    <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" alt="English" width="15px" height="15px"/> English (fluent)
   </span><br>
   <span style="display: flex; align-items: center;">
     <img src="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" alt="Spanish" width="15px" height="15px"/> Spanish (advanced)
+  </span><br>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn.countryflags.com/thumbs/italy/flag-round-250.png" alt="Italian" width="15px" height="15px"/> Italian (basic)
   </span>
 </div>
 
